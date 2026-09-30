@@ -1,0 +1,121 @@
+student_id,location_id,primary_platform,usage_mode,daily_screen_time_hrs,loneliness_score,dass21_score,isolation_flag
+S1000,7,X (Twitter),active,4.1,72,24,0
+S1001,4,WhatsApp,active,2.8,21,3,0
+S1002,5,TikTok,passive,1.1,32,9,0
+S1003,7,X (Twitter),passive,4.4,62,2,0
+S1004,3,WhatsApp,active,2.6,62,40,0
+S1005,8,Instagram,passive,3.8,67,44,0
+S1006,5,WhatsApp,passive,5.2,30,17,1
+S1007,5,TikTok,passive,6.1,70,46,0
+S1008,7,WhatsApp,passive,3.1,66,35,1
+S1009,2,TikTok,active,2.8,76,46,0
+S1010,3,Instagram,active,1.9,42,21,0
+S1011,7,WhatsApp,passive,6.3,74,33,1
+S1012,3,WhatsApp,passive,10.4,35,46,1
+S1013,3,TikTok,passive,6.6,50,7,0
+S1014,8,Instagram,active,7.3,30,39,0
+S1015,5,Instagram,active,2.7,73,48,1
+S1016,4,Instagram,passive,5.0,35,43,0
+S1017,8,WhatsApp,passive,5.9,27,18,0
+S1018,8,X (Twitter),passive,0.3,23,41,1
+S1019,3,WhatsApp,passive,2.2,59,40,1
+S1020,6,TikTok,passive,8.5,23,36,1
+S1021,5,Instagram,active,1.7,75,5,1
+S1022,2,WhatsApp,active,7.9,44,51,1
+S1023,8,WhatsApp,passive,1.7,22,25,0
+S1024,4,WhatsApp,passive,2.3,51,33,0
+S1025,6,WhatsApp,active,5.1,22,58,0
+S1026,6,Instagram,active,4.2,46,55,1
+S1027,2,Instagram,passive,3.3,48,58,0
+S1028,8,TikTok,active,8.4,51,44,0
+S1029,4,X (Twitter),active,1.9,69,5,0
+S1030,5,WhatsApp,passive,3.7,77,36,0
+S1031,1,Instagram,passive,5.4,70,56,0
+S1032,4,Instagram,passive,4.7,38,32,1
+S1033,2,Instagram,active,2.9,40,52,0
+S1034,6,Instagram,passive,2.9,24,21,0
+S1035,5,X (Twitter),active,6.1,37,20,0
+S1036,4,Instagram,active,6.2,47,5,0
+S1037,1,X (Twitter),passive,4.7,61,5,0
+S1038,1,WhatsApp,passive,2.5,41,54,0
+S1039,3,WhatsApp,passive,3.0,40,47,0
+S1040,3,WhatsApp,passive,4.0,25,3,0
+S1041,7,Instagram,passive,4.3,20,29,0
+S1042,2,WhatsApp,active,5.3,24,10,0
+S1043,8,Instagram,active,3.6,60,61,0
+S1044,4,TikTok,active,6.0,31,61,0
+S1045,4,WhatsApp,active,6.0,45,29,0
+S1046,8,X (Twitter),passive,7.5,65,30,0
+S1047,7,Instagram,active,4.1,53,23,0
+S1048,6,WhatsApp,passive,4.8,68,54,1
+S1049,6,WhatsApp,passive,3.8,33,8,0
+S1050,7,WhatsApp,passive,2.5,45,54,0
+S1051,6,WhatsApp,passive,10.2,64,2,0
+S1052,3,TikTok,passive,7.0,46,50,1
+S1053,4,TikTok,passive,5.9,28,30,1
+S1054,7,Instagram,active,4.0,45,39,0
+S1055,4,TikTok,passive,2.4,76,36,1
+S1056,8,TikTok,active,6.5,66,35,0
+S1057,1,WhatsApp,active,3.7,76,23,0
+S1058,3,TikTok,passive,5.0,41,30,0
+S1059,5,Instagram,active,3.0,66,5,0
+S1060,3,TikTok,passive,4.6,75,1,1
+S1061,7,TikTok,passive,3.1,49,19,0
+S1062,5,WhatsApp,passive,3.1,62,27,0
+S1063,1,WhatsApp,active,4.5,67,10,0
+S1064,7,WhatsApp,active,1.7,36,3,0
+S1065,2,X (Twitter),passive,1.7,45,14,0
+S1066,4,TikTok,passive,2.7,55,5,0
+S1067,1,TikTok,passive,3.6,20,53,0
+S1068,4,WhatsApp,passive,6.1,27,48,0
+S1069,6,Instagram,passive,3.7,68,29,0
+S1070,2,X (Twitter),active,4.0,54,55,1
+S1071,2,WhatsApp,active,3.5,71,37,0
+S1072,1,WhatsApp,passive,4.8,34,50,0
+S1073,2,WhatsApp,active,2.5,66,61,0
+S1074,5,TikTok,active,3.8,75,56,0
+S1075,2,WhatsApp,passive,4.9,41,1,0
+S1076,4,Instagram,passive,4.5,33,14,1
+S1077,4,Instagram,passive,4.1,45,10,1
+S1078,7,X (Twitter),passive,4.1,47,7,0
+S1079,4,TikTok,active,5.2,42,25,0
+S1080,7,TikTok,passive,10.5,33,50,0
+S1081,4,WhatsApp,passive,2.6,43,44,0
+S1082,5,X (Twitter),active,10.6,21,43,0
+S1083,8,WhatsApp,passive,2.6,64,4,1
+S1084,7,WhatsApp,passive,1.0,45,5,0
+S1085,3,WhatsApp,passive,3.0,33,25,0
+S1086,6,Instagram,passive,4.8,78,53,0
+S1087,1,Instagram,passive,9.4,75,3,0
+S1088,4,WhatsApp,active,2.4,70,18,0
+S1089,2,WhatsApp,active,5.2,26,19,0
+S1090,8,TikTok,passive,1.8,22,32,1
+S1091,4,WhatsApp,passive,9.3,66,19,1
+S1092,2,WhatsApp,passive,7.1,42,48,0
+S1093,6,X (Twitter),passive,3.1,65,11,0
+S1094,6,TikTok,passive,1.4,62,46,1
+S1095,6,WhatsApp,passive,7.6,66,0,0
+S1096,2,Instagram,passive,3.8,79,25,0
+S1097,4,Instagram,passive,7.2,64,13,0
+S1098,6,WhatsApp,passive,4.0,37,37,0
+S1099,5,Instagram,passive,4.1,77,36,1
+S1100,7,X (Twitter),passive,3.2,57,61,1
+S1101,2,Instagram,active,5.5,54,10,0
+S1102,2,Instagram,active,4.3,70,62,0
+S1103,4,Instagram,active,5.2,34,35,0
+S1104,2,WhatsApp,passive,1.6,44,12,0
+S1105,2,TikTok,active,7.4,74,42,1
+S1106,6,WhatsApp,passive,8.3,56,2,0
+S1107,4,WhatsApp,passive,4.3,47,32,0
+S1108,6,WhatsApp,active,10.1,29,5,0
+S1109,7,Instagram,passive,9.0,58,49,0
+S1110,8,Instagram,active,5.6,76,55,0
+S1111,7,WhatsApp,active,7.7,36,9,0
+S1112,8,Instagram,passive,6.7,58,4,0
+S1113,6,WhatsApp,active,1.3,41,22,1
+S1114,7,Instagram,active,3.5,45,9,0
+S1115,4,WhatsApp,passive,5.7,63,43,0
+S1116,1,Instagram,passive,8.5,44,1,0
+S1117,6,X (Twitter),active,1.8,36,12,1
+S1118,8,TikTok,passive,1.4,32,39,1
+S1119,5,WhatsApp,active,3.9,39,1,0
